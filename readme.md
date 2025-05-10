@@ -1,1 +1,0 @@
-A .ppm image file could be opened in Photoshop 2025.
